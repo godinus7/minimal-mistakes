@@ -11,6 +11,7 @@ Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building per
 
 [![Minimal Mistakes live preview][2]][1]
 
+
 [1]: https://godinus7.github.io/minimal-mistakes/
 [2]: screenshot.png (live preview)
 
