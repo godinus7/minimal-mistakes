@@ -47,6 +47,7 @@ This theme comes in nine different skins (in addition to the default one).
 
 ## Demo pages
 
+
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
 | [Post with Header Image][header-image-post] | A post with a large header image. |
